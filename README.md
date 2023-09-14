@@ -1,2 +1,2 @@
-# buttonpage.git.io
+# buttonpage
 Button page
